@@ -44,4 +44,6 @@ You can customize your password by choosing the following options when prompted:
 4. Include digits? (1 for yes, 0 for no)
 5. Include special characters? (1 for yes, 0 for no)
 
+
+
 Feel free to contribute to this project, report issues, or suggest improvements. If you find this project helpful, please give it a star!
