@@ -38,10 +38,10 @@ The program will generate and display your random password.
 ## Customization
 You can customize your password by choosing the following options when prompted:
 
-Password Length: Specify the desired length of your password. (Should be greater than 0)
-Include lowercase characters? (1 for yes, 0 for no)
-Include uppercase characters? (1 for yes, 0 for no)
-Include digits? (1 for yes, 0 for no)
-Include special characters? (1 for yes, 0 for no)
+1. Password Length: Specify the desired length of your password. (Should be greater than 0)
+2. Include lowercase characters? (1 for yes, 0 for no)
+3. Include uppercase characters? (1 for yes, 0 for no)
+4. Include digits? (1 for yes, 0 for no)
+5. Include special characters? (1 for yes, 0 for no)
 
 Feel free to contribute to this project, report issues, or suggest improvements. If you find this project helpful, please give it a star!
